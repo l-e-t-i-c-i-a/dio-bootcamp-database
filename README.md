@@ -1,4 +1,6 @@
 # dio-bootcamp-database
+
+Desafio do E-commerce
 Objetivo:
 Refinar o modelo apresentado em aula acrescentando os seguintes pontos:
 
