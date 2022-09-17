@@ -39,7 +39,7 @@ Os tópicos supracitados devem estar presentes nas queries;
 Elabore perguntas que podem ser respondidas pelas consultas;
 As cláusulas podem estar presentes em mais de uma query.
 
-*Desafio 4 - Oficina
+* Desafio 4 - Oficina
 Para o cenário da oficina, criar queries SQL com as cláusulas abaixo:
 
 Recuperações simples com SELECT Statement;
